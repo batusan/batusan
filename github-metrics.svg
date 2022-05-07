@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            334 Commits
+                            335 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.89004937115544" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="418.89004937115544" y="0" width="21.976864682106825" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.8669140532623" y="0" width="14.921598923998447" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.7885129772607" y="0" width="2.3865047042586074" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.17501768151936" y="0" width="1.1063603291584727" height="8" fill="#007800"/>
-                    <rect mask="url(#languages-bar)" x="459.2813780106778" y="0" width="0.39677852546041764" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.67815653613826" y="0" width="0.17926346083966357" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.8574199969779" y="0" width="0.14258000302207813" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.8755622271121" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="418.8755622271121" y="0" width="21.976104621072313" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.85166684818444" y="0" width="14.921082866495306" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.7727497146797" y="0" width="2.3864221679523316" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.15917188263205" y="0" width="1.1063220661310351" height="8" fill="#007800"/>
+                    <rect mask="url(#languages-bar)" x="459.2654939487631" y="0" width="0.4059550575809305" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.671449006344" y="0" width="0.17925726108490023" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8507062674289" y="0" width="0.14929373257110123" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1334,6 +1334,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#61990a8</div>
+                                        <div class="message">Last changes &amp; CSS Fixes &amp; Hotfixes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">batusan/Ikinci-El-Project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#f1055d9</div>
                                         <div class="message">
                                             My account changes
@@ -1400,26 +1420,6 @@ Added User product offers
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#1ce089a</div>
-                                        <div class="message">Display font fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">batusan/Ikinci-El-Project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04cae9c</div>
                                         <div class="message">Display font fix</div>
                                     </div>
                                 </div>
@@ -1588,7 +1588,7 @@ Added User product offers
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.628140703517595 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.40703517587939 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1610,7 +1610,7 @@ Added User product offers
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 66 times</div>
+                                <div class="text">Repositories have been deployed 67 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1923,7 +1923,7 @@ Added User product offers
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 01:21:58 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 02:22:21 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
