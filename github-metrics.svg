@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            339 Commits
+                            342 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.8628671973278" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="418.8628671973278" y="0" width="21.975438582449232" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.838305779777" y="0" width="14.920630647248142" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.7589364270251" y="0" width="2.386349841697873" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.145286268723" y="0" width="1.1062885363841435" height="8" fill="#007800"/>
-                    <rect mask="url(#languages-bar)" x="459.2515748051071" y="0" width="0.41788681243292913" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.66946161754004" y="0" width="0.17925182826314184" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.8487134458031" y="0" width="0.15128655419678602" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.8636965029379" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="418.8636965029379" y="0" width="21.97548209156863" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.8391785945065" y="0" width="14.92066018856983" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.7598387830763" y="0" width="2.3863545664263377" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.14619334950265" y="0" width="1.1062907267222266" height="8" fill="#007800"/>
+                    <rect mask="url(#languages-bar)" x="459.2524840762249" y="0" width="0.4170278211343582" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.66951189735926" y="0" width="0.17925218316341696" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8487640805227" y="0" width="0.15123591947732495" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1339,6 +1339,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b5bf7dc</div>
+                                        <div class="message">Test Reduce SSR data</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">batusan/Ikinci-El-Project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00f69d4</div>
+                                        <div class="message">Revert Changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">batusan/Ikinci-El-Project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cea7707</div>
+                                        <div class="message">Still testing...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">batusan/Ikinci-El-Project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b674701</div>
                                         <div class="message">Trying to optimize requests</div>
                                     </div>
@@ -1361,71 +1421,6 @@
                                     <div class="commit">
                                         <div class="sha">#b69042d</div>
                                         <div class="message">Merge branch 'main' of https://github.com/batusan/Ikinci-El-Project</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">batusan/Ikinci-El-Project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3113aff</div>
-                                        <div class="message">File type &amp; file size handler</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">batusan/Ikinci-El-Project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61990a8</div>
-                                        <div class="message">Last changes &amp; CSS Fixes &amp; Hotfixes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">batusan/Ikinci-El-Project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f1055d9</div>
-                                        <div class="message">
-                                            My account changes
-
-Added User product offers
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        </div>
                                     </div>
                                 </div>
                             </section>
@@ -1593,7 +1588,7 @@ Added User product offers
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.52261306532664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.859296482412056 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1615,7 +1610,7 @@ Added User product offers
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 71 times</div>
+                                <div class="text">Repositories have been deployed 74 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1928,7 +1923,7 @@ Added User product offers
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 21:26:36 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 22:18:29 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
